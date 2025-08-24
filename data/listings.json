@@ -1,0 +1,45 @@
+[
+    {
+      "id": "listing_001",
+      "title": "Cozy Cabin by the Lake",
+      "location": "Lake Tahoe",
+      "price": 180,
+      "description": "Warm, quiet, pet-friendly cabin near hiking trails and lake access."
+    },
+    {
+      "id": "listing_002",
+      "title": "Modern Apartment Downtown",
+      "location": "San Francisco",
+      "price": 250,
+      "description": "Stylish apartment close to cafes, nightlife, and tech offices."
+    },
+    {
+      "id": "listing_003",
+      "title": "Beachside Villa with Pool",
+      "location": "Santa Monica",
+      "price": 400,
+      "description": "Spacious villa for families, private pool, steps from the beach."
+    },
+    {
+      "id": "listing_004",
+      "title": "Quiet Suburban House",
+      "location": "Palo Alto",
+      "price": 220,
+      "description": "Family-friendly home on a quiet street with backyard."
+    },
+    {
+      "id": "listing_005",
+      "title": "Mountain Cabin Retreat",
+      "location": "Yosemite",
+      "price": 150,
+      "description": "Remote cabin with amazing hiking and stargazing."
+    },
+    {
+      "id": "listing_006",
+      "title": "Bright City Studio",
+      "location": "Seattle",
+      "price": 130,
+      "description": "Compact studio, perfect for business travelers near downtown."
+    }
+  ]
+  
